@@ -1,3 +1,4 @@
+// An example CoreDNS plugin.
 package hellodns
 
 import (
